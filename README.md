@@ -1,7 +1,8 @@
-https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm pankaj3150</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Developer" width="500">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj3150&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj3150" /> </p>
 
@@ -9,11 +10,11 @@ https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif
 
 - 🌱 I’m currently learning **github**
 
-- 💬 Ask me about **Android,MEARN**
+- 💬 Ask me about **KUBERNETES , CLOUD**
 
 - 📫 How to reach me **pankajp3150@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **"I guess it's time to trade in my soldering iron for a keyboard and mouse!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
